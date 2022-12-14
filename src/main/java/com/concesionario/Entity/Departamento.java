@@ -12,7 +12,7 @@ import javax.persistence.*;
 @Setter
 @AllArgsConstructor
 @NoArgsConstructor
-public class Departamento {
+public class Departamento { 
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
